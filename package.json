@@ -1,0 +1,39 @@
+{
+  "name": "@testabulous/runner",
+  "version": "0.0.1-beta.14",
+  "description": "Testabulous is a no-code e2e testing framework for web applications",
+  "main": "dist/index.js",
+  "bin": {
+    "testabulous": "dist/index.js"
+  },
+  "type": "module",
+  "files": [
+    "dist/",
+    "resources/",
+    "drizzle/"
+  ],
+  "author": "EIRL John Dudmesh",
+  "license": "MIT",
+  "homepage": "https://github.com/testabulous/testabulous-runner",
+  "dependencies": {
+    "@paralleldrive/cuid2": "^2.2.2",
+    "axios": "^1.6.8",
+    "better-sqlite3": "^9.4.5",
+    "chalk": "5.3.0",
+    "chromedriver": "^123.0.1",
+    "commander": "^12.0.0",
+    "date-fns": "^3.6.0",
+    "drizzle-orm": "^0.30.7",
+    "figlet": "^1.7.0",
+    "handlebars": "^4.7.8",
+    "inquirer": "^9.2.18",
+    "selenium-webdriver": "^4.19.0",
+    "untildify": "^5.0.0",
+    "yaml": "^2.4.1",
+    "zod": "^3.22.4"
+  },
+  "engines": {
+    "node": ">=20.11.0"
+  },
+  "packageManager": "pnpm@8.15.1"
+}
