@@ -1,0 +1,1 @@
+ALTER TABLE script_data ADD `script_id` text NOT NULL;

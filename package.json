@@ -1,6 +1,6 @@
 {
   "name": "@testabulous/runner",
-  "version": "0.0.1-beta.14",
+  "version": "0.0.1-beta.15",
   "description": "Testabulous is a no-code e2e testing framework for web applications",
   "main": "dist/index.js",
   "bin": {
