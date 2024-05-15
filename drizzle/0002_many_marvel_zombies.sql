@@ -1,0 +1,1 @@
+ALTER TABLE test_specs ADD `type` integer DEFAULT 0 NOT NULL;

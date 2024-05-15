@@ -5,15 +5,8 @@
     {
       "idx": 0,
       "version": "5",
-      "when": 1707745026371,
-      "tag": "0000_sad_jack_flag",
-      "breakpoints": true
-    },
-    {
-      "idx": 1,
-      "version": "5",
-      "when": 1714118014284,
-      "tag": "0001_clumsy_the_stranger",
+      "when": 1715776551865,
+      "tag": "0000_clear_leech",
       "breakpoints": true
     }
   ]

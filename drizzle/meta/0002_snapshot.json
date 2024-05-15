@@ -1,8 +1,8 @@
 {
   "version": "5",
   "dialect": "sqlite",
-  "id": "52715b68-2f00-4211-ba6f-499667c96df8",
-  "prevId": "00000000-0000-0000-0000-000000000000",
+  "id": "7fd35c4a-cf40-43a1-8924-74ec322f3acc",
+  "prevId": "4301d299-b7d4-4dd6-858c-e4b308c66c90",
   "tables": {
     "calls": {
       "name": "calls",
@@ -192,14 +192,6 @@
           "primaryKey": false,
           "notNull": true,
           "autoincrement": false
-        },
-        "type": {
-          "name": "type",
-          "type": "integer",
-          "primaryKey": false,
-          "notNull": true,
-          "autoincrement": false,
-          "default": 0
         }
       },
       "indexes": {},
@@ -368,6 +360,14 @@
           "primaryKey": false,
           "notNull": true,
           "autoincrement": false
+        },
+        "type": {
+          "name": "type",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true,
+          "autoincrement": false,
+          "default": 0
         },
         "description": {
           "name": "description",
